@@ -13,7 +13,6 @@ This repository contains a C# console application of the traditional Rock-Paper-
 
 ## 💻 Installation & Usage
 
-1. Clone the repository:
-   `git clone https://github.com/yourusername/rock-paper-scissors-csharp.git`
+1. Clone the repository.
 2. Open the `.sln` file in Visual Studio.
 3. Press `F5` to build and run the game.
