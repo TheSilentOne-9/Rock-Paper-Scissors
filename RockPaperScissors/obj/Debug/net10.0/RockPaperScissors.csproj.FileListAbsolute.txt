@@ -1,0 +1,14 @@
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\bin\Debug\net10.0\RockPaperScissors.exe
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\bin\Debug\net10.0\RockPaperScissors.deps.json
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\bin\Debug\net10.0\RockPaperScissors.runtimeconfig.json
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\bin\Debug\net10.0\RockPaperScissors.dll
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\bin\Debug\net10.0\RockPaperScissors.pdb
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.dll
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\obj\Debug\net10.0\refint\RockPaperScissors.dll
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.pdb
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\obj\Debug\net10.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\EREN\Desktop\games\rps\RockPaperScissors\obj\Debug\net10.0\ref\RockPaperScissors.dll
